@@ -5,6 +5,6 @@ The current version's manual is at
 
 The current version's README file is at 
 
-The project contributors are listed at 
+The project contributors are listed at https://github.com/ajarmst/badvam-support/blob/master/Version%201.1/About.png
 
 Support requests, queries and bug reports for the BADVAM project may be submitted using the issues tab above (https://github.com/ajarmst/badvam-support/issues).
