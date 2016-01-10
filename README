@@ -1,0 +1,11 @@
+Blood Audit Data Visuzalization and Manipulation (BADVAM) v. 1.1
+------------------------------------------------------------------
+
+(1)  Installation:
+      (a)  Unzip the application package into a directory that you have permission to execute programs and
+           modify files in.
+      (b)  Double-click (or otherwise execute) the application executable: badvam.exe  It has a pair of red
+           droplets as its application icon.
+           
+The application manual (Manual.pdf) may be found in the "Defaults" directory inside the application directory
+createsd by unzipping the package.
